@@ -1,0 +1,6 @@
+const div = dom.create("           <div>Greetings</div>")
+console.log(div)
+
+//dom.after(, div)
+//C2.parentNode.insertBefore(div, C2.nextSibling)
+console.log(C2.parentNode)

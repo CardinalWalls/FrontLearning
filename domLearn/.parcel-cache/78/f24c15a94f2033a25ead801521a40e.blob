@@ -1,0 +1,7 @@
+window.dom={
+    create(string){
+        const container = document.createDocument("template");
+        template.innerHTML = string.trim();
+        return container.content.;
+    }
+}

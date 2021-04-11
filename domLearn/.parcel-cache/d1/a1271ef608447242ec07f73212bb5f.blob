@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom 1</title>
+    <link rel="stylesheet" href="76d74868bf480873460adb8aad1df89c">
+</head>
+<body>
+    <div>
+        <div id="test"><span>test1</span>
+          <p class="red">段落标签3</p> test2
+        </div>
+        <div id="test2">
+          <p class="red">段落标签3</p> test2
+        </div>
+      </div>
+
+
+    <script src="345516b47541df51177a7f6a10e3a5ed"></script>
+    <script src="67e2e1d839de85b19f58d77aecf7b303"></script>
+</body>
+</html>

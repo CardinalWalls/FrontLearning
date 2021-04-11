@@ -1,0 +1,5 @@
+4
+48C:\Users\Administrator\Desktop\test\domLearn\src132625185093822902 1
+55C:\Users\Administrator\Desktop\test\domLearn\src\dom.js132625185090000000 0
+59C:\Users\Administrator\Desktop\test\domLearn\src\index.html132625185875079431 0
+56C:\Users\Administrator\Desktop\test\domLearn\src\main.js132625185976426375 0

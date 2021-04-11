@@ -1,0 +1,4 @@
+const div = dom.create("           <div>Greetings</div>")
+console.log(div)
+
+dom.after(test, div)

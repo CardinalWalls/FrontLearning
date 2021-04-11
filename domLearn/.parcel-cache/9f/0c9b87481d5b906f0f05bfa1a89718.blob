@@ -1,0 +1,11 @@
+window.dom={
+    create(string){
+        const container = document.createElement("template");
+        container.innerHTML = string.trim();
+        console.log(container.content.childNodes)
+        return container.content.firstChild;
+    },
+    after(insertedNode, newNode){
+        insertedNode.parentNode.insertBefore(newNode, insertedNode.nextSibling)
+    }
+}

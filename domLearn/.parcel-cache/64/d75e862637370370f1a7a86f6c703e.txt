@@ -1,0 +1,14 @@
+13
+48C:\Users\Administrator\Desktop\test\domLearn\src132626017800869674 1
+58C:\Users\Administrator\Desktop\test\domLearn\src\style.css132626020600994094 0
+49C:\Users\Administrator\Desktop\test\domLearn\dist132626225204767313 1
+55C:\Users\Administrator\Desktop\test\domLearn\src\dom.js132626225203306082 0
+59C:\Users\Administrator\Desktop\test\domLearn\src\index.html132626204831486500 0
+67C:\Users\Administrator\Desktop\test\domLearn\dist\index.bd78eeec.js132626225204607744 0
+71C:\Users\Administrator\Desktop\test\domLearn\dist\index.9b0ae0e5.js.map132626225204757362 0
+56C:\Users\Administrator\Desktop\test\domLearn\src\main.js132626224783608507 0
+71C:\Users\Administrator\Desktop\test\domLearn\dist\index.bd78eeec.js.map132626225204647636 0
+67C:\Users\Administrator\Desktop\test\domLearn\dist\index.9b0ae0e5.js132626225204707468 0
+68C:\Users\Administrator\Desktop\test\domLearn\dist\index.de60a1d7.css132626225204607744 0
+72C:\Users\Administrator\Desktop\test\domLearn\dist\index.de60a1d7.css.map132626225204647636 0
+60C:\Users\Administrator\Desktop\test\domLearn\dist\index.html132626225204607744 0

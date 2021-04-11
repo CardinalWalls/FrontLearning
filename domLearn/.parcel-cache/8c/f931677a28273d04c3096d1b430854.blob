@@ -1,0 +1,22 @@
+window.dom={
+    create(string){
+        const container = document.createElement("template");
+        container.innerHTML = string.trim();
+        console.log(container.content)
+        return container.content.firstChild;
+    },
+    after(insertedNode, newNode){
+        insertedNode.parentNode.insertBefore(newNode, insertedNode.nextSibling)
+    },
+    before(insertedNode, newNode){
+        insertedNode.parentNode.insertBefore(newNode, insertedNode)
+    },
+    append(parentNode, newNode){
+        parentNode.appendChild(newNode)
+    },
+
+    find(selector, scope){
+        
+    }
+
+}

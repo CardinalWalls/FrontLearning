@@ -1,0 +1,1 @@
+const div = dom.create("<div>Greetings</div>")

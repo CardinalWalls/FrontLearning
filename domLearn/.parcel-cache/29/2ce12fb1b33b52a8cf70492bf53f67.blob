@@ -1,0 +1,7 @@
+const div = dom.create("           <div>Greetings</div>")
+console.log(div)
+
+dom.after(C2, div)
+
+dom.before(C3, div)
+dom.append(C4, div)
