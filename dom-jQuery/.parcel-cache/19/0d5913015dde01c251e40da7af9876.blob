@@ -1,0 +1,3 @@
+window.jQuery = function(slcts){
+    const elements = document.querySelectorAll(slcts)
+}

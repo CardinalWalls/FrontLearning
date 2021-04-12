@@ -1,0 +1,7 @@
+window.jQuery = function(selectors){
+    const elements = document.querySelectorAll(selectors)
+    const api = {
+        addClass(className)
+        
+    }
+}

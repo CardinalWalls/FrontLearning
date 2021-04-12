@@ -1,0 +1,3 @@
+window.jQuery = () =>{
+    console.log('I'm jQuery')
+}

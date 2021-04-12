@@ -1,0 +1,4 @@
+const api = jQuery('.child')
+api.addClass('red').find('.child').addClass('blue')
+    //.end()
+    .addClass('yellow')
