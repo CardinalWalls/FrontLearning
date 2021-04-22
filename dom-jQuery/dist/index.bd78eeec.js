@@ -442,10 +442,14 @@ id) /*: string*/
 }
 
 },{}],"30Yv7":[function(require,module,exports) {
-const api = jQuery('#test')
+const api = $('.test')
+
 api.addClass('red').find('.child').addClass('blue')
     .end()
     .addClass('yellow')
+api.children().print()
+    
+
 },{}]},["1Ypau","30Yv7"], "30Yv7", "parcelRequire427e")
 
 //# sourceMappingURL=index.bd78eeec.js.map
