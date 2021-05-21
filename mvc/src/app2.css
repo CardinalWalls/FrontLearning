@@ -1,0 +1,23 @@
+#bar{
+    border:1px solid black;
+    display:flex;
+}
+#bar>ol{
+    width:50%;
+    border:1px solid black;
+}
+#bar>ol.selected{
+    background: chartreuse;
+}
+
+#content{
+    display: block;
+    height: 40vh;
+    border:1px solid red;
+}
+#content>ol{
+    display: none;
+}
+#content>ol.active{
+    display:block;
+}
